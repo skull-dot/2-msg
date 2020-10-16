@@ -11,7 +11,7 @@ html *, html *:after, html *:before {
   height: 0.000000001px;
   width: 337px;
   position: absolute;
-  top: 50%;
+  top: 53%;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
           transform: translate(-50%, -50%);
